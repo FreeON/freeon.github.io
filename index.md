@@ -23,7 +23,7 @@ Projects
 Authors
 -------
 
-The principal authors of FreeON are:
+The principal authors of are:
 
   - Matt Challacombe @mattchallacombe
   - Nicolas Bock @nicolasbock
