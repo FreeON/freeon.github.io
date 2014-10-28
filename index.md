@@ -22,10 +22,12 @@ have been implemented.  Advanced features include $$\mathcal{O}(N)$$ static
 and dynamic response, as well as time reversible Born Oppenheimer Molecular
 Dynamics (MD).
 
-Spammpack
+Projects
 ---------
 
-Please visit the [Spammpack Project](http://freeon.github.io/spammpack).
+* [Spammpack](http://freeon.github.io/spammpack).
+* [Spamm Mini-App](http://freeon.github.io/spamm-miniapp).
+* [FreeON](http://freeon.github.io/freeon).
 
 Authors
 -------
