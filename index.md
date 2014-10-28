@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FreeON
+title: The FreeON Project
 ---
 
 FreeON
