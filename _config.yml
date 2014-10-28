@@ -4,4 +4,4 @@ gems:
 footer-links:
   github: nicolasbock
 
-baseurl: "/freeon"
+baseurl: "/"

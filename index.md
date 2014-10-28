@@ -25,9 +25,12 @@ Dynamics (MD).
 Projects
 ---------
 
-* [Spammpack](http://freeon.github.io/spammpack)
-* [Spamm Mini-App](http://freeon.github.io/spamm-miniapp)
-* [FreeON](http://freeon.github.io/freeon)
+* [Spammpack](http://freeon.github.io/spammpack): The Sparse Approximate
+  Matrix Multiplication (SpAMM) Package
+* [Spamm Mini-App](http://freeon.github.io/spamm-miniapp): A Mini-App
+  demonstrating the use of SpAMM
+* [FreeON](http://freeon.github.io/freeon): An experimental
+  suite of programs for linear scaling quantum chemistry
 
 {% include thin_add.html %}
 
