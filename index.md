@@ -25,9 +25,9 @@ Dynamics (MD).
 Projects
 ---------
 
-* [Spammpack](http://freeon.github.io/spammpack).
-* [Spamm Mini-App](http://freeon.github.io/spamm-miniapp).
-* [FreeON](http://freeon.github.io/freeon).
+* [Spammpack](http://freeon.github.io/spammpack)
+* [Spamm Mini-App](http://freeon.github.io/spamm-miniapp)
+* [FreeON](http://freeon.github.io/freeon)
 
 Authors
 -------
