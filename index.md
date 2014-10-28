@@ -29,6 +29,8 @@ Projects
 * [Spamm Mini-App](http://freeon.github.io/spamm-miniapp)
 * [FreeON](http://freeon.github.io/freeon)
 
+{% include thin_add.html %}
+
 Authors
 -------
 
