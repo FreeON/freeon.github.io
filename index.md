@@ -18,7 +18,7 @@ Projects
 * [FreeON](http://freeon.github.io/freeon): An experimental
   suite of programs for linear scaling quantum chemistry
 
-{% include thin_add.html %}
+{% include thin_short_add.html %}
 
 Authors
 -------
