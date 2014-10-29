@@ -4,4 +4,9 @@ gems:
 footer-links:
   github: nicolasbock
 
+pages_list:
+  Main: "/"
+  Spammpack: "/spammpack/"
+  "Spamm MiniApp": "/spamm-miniapp/"
+
 baseurl: "/"
