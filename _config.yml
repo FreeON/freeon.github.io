@@ -8,5 +8,6 @@ pages_list:
   Main: "/"
   Spammpack: "/spammpack"
   "Spamm MiniApp": "/spamm-miniapp"
+  FreeON: "/freeon"
 
 baseurl: "/"
