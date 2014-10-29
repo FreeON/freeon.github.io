@@ -6,7 +6,7 @@ footer-links:
 
 pages_list:
   Main: "/"
-  Spammpack: "/spammpack/"
-  "Spamm MiniApp": "/spamm-miniapp/"
+  Spammpack: "/spammpack"
+  "Spamm MiniApp": "/spamm-miniapp"
 
 baseurl: "/"
