@@ -16,6 +16,7 @@ Projects
 * [Spamm Mini-App](/spamm-miniapp): A Mini-App demonstrating the use of SpAMM
 * [FreeON](/freeon): An experimental suite of programs for linear scaling
   quantum chemistry
+* [Data-Sets](/data-sets): Data-sets used in publications
 
 {% include thin_medium_add.html %}
 
