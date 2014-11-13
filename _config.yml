@@ -5,9 +5,10 @@ footer-links:
   github: nicolasbock
 
 pages_list:
-  Main: "/"
-  Spammpack: "/spammpack"
+  "Main": "/"
+  "Spammpack": "/spammpack"
   "Spamm MiniApp": "/spamm-miniapp"
-  FreeON: "/freeon"
+  "FreeON": "/freeon"
+  "Data-Sets": "/data-sets"
 
 baseurl: "/"
