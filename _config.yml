@@ -10,5 +10,7 @@ pages_list:
   "Spamm MiniApp": "/spamm-miniapp"
   "FreeON": "/freeon"
   "Data-Sets": "/data-sets"
+  "Technical Reports": "/technical-reports"
+  "FreeON Blog": "/blog"
 
 baseurl: "/"
