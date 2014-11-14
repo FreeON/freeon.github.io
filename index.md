@@ -17,6 +17,7 @@ Projects
 * [FreeON](/freeon): An experimental suite of programs for linear scaling
   quantum chemistry
 * [Data-Sets](/data-sets): Data-sets used in publications
+* [FreeON Blog](/blog): The FreeON Blog
 
 {% include thin_medium_add.html %}
 
