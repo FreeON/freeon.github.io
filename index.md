@@ -6,11 +6,6 @@ title: The FreeON Project
 The FreeON Project
 ------------------
 
-A collection of projects...
-
-Projects
----------
-
 * [Spammpack](/spammpack): The Sparse Approximate Matrix Multiplication
   (SpAMM) Package
 * [Spamm Mini-App](/spamm-miniapp): A Mini-App demonstrating the use of SpAMM
