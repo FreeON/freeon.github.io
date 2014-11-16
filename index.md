@@ -15,7 +15,7 @@ The FreeON Project
 * [Technical Reports](/technical-reports): Technical Reports
 * [FreeON Blog](/blog): The FreeON Blog
 
-{% include thin_medium_add.html %}
+{% include responsive_ad.html %}
 
 Authors
 -------
