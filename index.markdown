@@ -1,10 +1,8 @@
 ---
-layout: default
 title: The FreeON Project
 ---
 
-The FreeON Project
-------------------
+# The FreeON Project
 
 * [Spammpack](/spammpack): The Sparse Approximate Matrix Multiplication
   (SpAMM) Package
@@ -17,8 +15,7 @@ The FreeON Project
 
 {% include responsive_ad.html %}
 
-Authors
--------
+# Authors
 
   - Matt Challacombe @mattchallacombe
   - Nicolas Bock @nicolasbock

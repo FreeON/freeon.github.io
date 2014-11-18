@@ -14,5 +14,12 @@ pages_list:
   "Technical Reports": "/technical-reports"
   "FreeON Blog": "/blog"
 
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+
 url: http://www.freeon.org
 baseurl: "/"
