@@ -1,0 +1,67 @@
+==================================================================
+https://keybase.io/nicolasbock
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.freeon.org
+  * I am nicolasbock (https://keybase.io/nicolasbock) on keybase.
+  * I have a public key with fingerprint E0D8 020A 7F1F C428 ED09  8048 7F5E 6D64 AC91 CA52
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "e0d8020a7f1fc428ed0980487f5e6d64ac91ca52",
+            "host": "keybase.io",
+            "key_id": "7f5e6d64ac91ca52",
+            "kid": "01117ffabf0650e036f39f881d4917906d11b1886d596b3d3126a2d5f4f40605590b0a",
+            "uid": "886caf613c3b6c2cf5ef0acac827dd00",
+            "username": "nicolasbock"
+        },
+        "revoke": {
+            "sig_ids": [
+                "d72c6a1d9f7b80abcaf48f3d07b8340b6d6e0d3e0a83166a51aaad8d6f804d6a0f"
+            ]
+        },
+        "service": {
+            "hostname": "www.freeon.org",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1420690803,
+    "expire_in": 157680000,
+    "prev": "5901c3e9456b9ace5d13769e6b601aede6ed23d4627c192afcdad07f6e39f6b0",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v2
+
+owFtkr9rFEEUx9fTExIImEJrmS4Qwpud3bcz1wgWQbARsRNzzI83d8uZ3XN3c0kI
+0Vaw0cZCC20sDGKjhX+BSNKK/4ON/4Ho2yN2TjPMm+983ne+M8/XLiaD9Sc7u+HD
+i9O7F85+uuTex+HjI+HqcChGR2JGyymW1YSaeVNWnRgJgqAhBVtEGX2WagpgNGS6
+iDlhwMx6I73NU7EppnXbn2CMsy1tlTXXeDEuA1f/o58tN0BKWcRoXQTMgUBhVCZq
+LUNmZGEAg5ROao0hN+hUUDJFm4Y8ZjEDhDw34MAybm+JY6G3EaXyyqFPPbeNYL31
+Oi1CAOiFLTWV3SVWV6WvH9rW1X4mjjdFQ4t6Rn0IbTlh360Y3RehSD1aGUwsnAbr
+GJ/pqALwUmXg+FYckiKwWklEm0trbdABI+cU0EIUD5jNTRelX8L7oM4N7O/vb8WG
+qK626mbC5uZN3dVsivemXTcf9ba6w/lSS258Thm7sgr8TnxgQU1b1pUYSVb6ruyx
+MksBDWhQm4IO5mVD47JX5AVq4NG3oYVjJqcnvSKT5eiM9ZQHqQo0hA5BWgqEFFIV
+MkwLL01qow+Wbx6R+JHQ9XG29KiqxQjZp50wkqOrbLfXkDhefbp9KVkfJJeHg/6r
+JasrV/79PzhN3p4MF7+vv9x5fXbzxrvbX659+/Pq60byZhs/Pbtza21jcHXlZPrr
+8+L7+x/wFw==
+=23do
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/nicolasbock
+
+==================================================================
